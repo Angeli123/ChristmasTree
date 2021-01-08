@@ -1,3 +1,0 @@
-# HELLO everyone!!!!
-HELP ME
-

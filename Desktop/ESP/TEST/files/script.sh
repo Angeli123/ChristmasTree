@@ -1,1 +1,0 @@
-echo HELP ME ALREADY
